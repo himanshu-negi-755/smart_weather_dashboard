@@ -42,7 +42,7 @@ smart_weather_dashboard/
 ### 1. Clone / download the project
 
 ```bash
-git clone https://github.com/<your-username>/smart-weather-dashboard.git
+git clone https://github.com/himanshu-negi-755/smart_weather_dashboard.git
 cd smart_weather_dashboard
 ```
 
